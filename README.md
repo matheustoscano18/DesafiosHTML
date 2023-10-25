@@ -1,3 +1,3 @@
 # DesafiosHTML
 
-Desafios básicos da rocketseat que foram concluidos!
+Desafios básicos da Rocketseat que foram concluidos!
